@@ -5,8 +5,8 @@
 ✔ Estoy actualmente trabajando en mis repositorios. Por lo que verás practicas en las siguientes tecnologias: 
   - [x] **HTML**
   - [x] **CSS**
-  - [ ] **SASS**
-  - [ ] **Javascript**
+  - [x] **SASS**
+  - [x] **Javascript**
   - [ ] **React**
   - [ ] **Express**
   - [x] **Java** 
