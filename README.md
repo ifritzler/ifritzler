@@ -7,9 +7,11 @@
   - [x] **CSS**
   - [x] **SASS**
   - [x] **Javascript**
-  - [ ] **React**
-  - [ ] **Express**
-  - [x] **Java** 
+  - - [ ] **React**
+  - - [ ] **Express**
+  - [x] **Java**
+  - [x] **Python**
+  - - [x] FastAPI
   
 🎒 Actualmente estoy estudiando mediante dos canales. [OpenBootcamp](https://open-bootcamp.com/) en el cual aprendo todas las tecnologias web para ser un full stack developer
 pero mas orientado a la programacion backend, y [CoderHouse](https://www.coderhouse.com/) donde tambien el objetivo es desarrollarme como profesional full stack
