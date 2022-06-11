@@ -11,7 +11,15 @@
   - - [ ] **Express**
   - [x] **Java**
   - [x] **Python**
+  - [x] **HTTP PROTOCOL**
   - - [x] FastAPI
+  - - - [x] Pydantic
+  - - - [x] SQLModel ORM
+  - - - [x] Project Structure repository
+  - [x] **SQL**
+  - - [x] Form Normalization
+  - - [x] Postgresql
+  - - [x] SQLite3
   
 🎒 Actualmente estoy estudiando mediante dos canales. [OpenBootcamp](https://open-bootcamp.com/) en el cual aprendo todas las tecnologias web para ser un full stack developer
 pero mas orientado a la programacion backend, y [CoderHouse](https://www.coderhouse.com/) donde tambien el objetivo es desarrollarme como profesional full stack
