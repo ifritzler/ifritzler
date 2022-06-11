@@ -9,15 +9,16 @@
   - [x] **Javascript**
   - - [ ] **React**
   - - [ ] **Express**
-  - [x] **Java**
+  - [ ] **Java** ... stand by ⏸
   - [x] **Python**
   - [x] **HTTP PROTOCOL**
-  - - [x] FastAPI
+  - - [x] FastAPI ⏩
   - - - [x] Pydantic
   - - - [x] SQLModel ORM
   - - - [x] Project Structure repository
-  - [x] **SQL**
-  - - [x] Form Normalization
+  - - - [x] Swagger documentation implementation
+  - [x] **SQL** ⏩
+  - - [x] Normalization
   - - [x] Postgresql
   - - [x] SQLite3
   
