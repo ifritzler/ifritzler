@@ -10,7 +10,10 @@ Me considero alguien super curioso y con perfil orientado a la resolucion de pro
   - [x] **SASS**
   - [x] **Javascript**
   - - [ ] **React**
-  - - [ ] **Express**
+  - - [x] **Express**
+  - - [x] **Node**
+  - - [x] **Mongoose**
+  - - [x] **Ajv + Typebox validation libraries**
   - [ ] **Java** ... stand by ⏸
   - [x] **Python**
   - [x] **HTTP PROTOCOL**
