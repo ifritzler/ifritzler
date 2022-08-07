@@ -9,6 +9,7 @@ Me considero alguien super curioso y con perfil orientado a la resolucion de pro
   - [x] **CSS**
   - [x] **SASS**
   - [x] **Javascript**
+  - - [x] **Vanilla JS SPA**
   - - [ ] **React**
   - - [x] **Express**
   - - [x] **Node**
@@ -30,11 +31,8 @@ Me considero alguien super curioso y con perfil orientado a la resolucion de pro
 🎒 Actualmente estoy estudiando mediante dos canales. [OpenBootcamp](https://open-bootcamp.com/) en el cual aprendo todas las tecnologias web para ser un full stack developer, orientado a la programacion backend, y [CoderHouse](https://www.coderhouse.com/) donde tambien el objetivo es desarrollarme como profesional full stack mas orientado al desarrollo web frontend.
 
 ## Algunos de mis repositorios en actividad
-- [Fast API - Proyecto para administrar un sistema de tickets para callcenter](https://github.com/ifritzler/fastapi-ticketapp)
-- [Coderhouse - Desarrollo web - Ejemplo de web para una heladeria de mi barrio](https://github.com/ifritzler/coder-dw-ibiza)
-- [Coderhouse - JS - Repo donde guardo algunas clases y ejercitación para el curso de desarrollador full stack](https://github.com/ifritzler/coderhouse-js-clases)
-- [Curso Javascript Moderno - Udemy - Aqui alojo las practicas referidas al curso de JS Moderno de Juan Pablo De la torre Valdez](https://github.com/ifritzler/udemy-js-moderno)
-
+- [Ecommerse SPA con Vanilla JS - Proyecto final JS CoderHouse](https://github.com/ifritzler/spa_js_ecommerce-final-coder)
+- [Coderhouse - Desarrollo web - Ejemplo de web para una heladeria de mi barrio (Finalizado)](https://github.com/ifritzler/coder-dw-ibiza)
 
 <!---
 ifritzler/ifritzler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
