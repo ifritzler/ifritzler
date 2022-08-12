@@ -10,7 +10,7 @@ Me considero alguien super curioso y con perfil orientado a la resolucion de pro
   - [x] **SASS**
   - [x] **Javascript**
   - - [x] **Vanilla JS SPA**
-  - - [ ] **React**
+  - - [x] **React**
   - - [x] **Express**
   - - [x] **Node**
   - - [x] **Mongoose**
